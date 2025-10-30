@@ -23,7 +23,7 @@ Here's a glimpse of the tools and technologies I work with:
 ## 📫 Let's Connect
 Reach out to me on these platforms:
 - [LinkedIn](https://www.linkedin.com/in/dhanush-mengji-965938275/)
-- [Portfolio](coming soon!)
+- [Portfolio](https://www.mengji-dhanush-portfolio.vercel.app/)
 
 ---
 
