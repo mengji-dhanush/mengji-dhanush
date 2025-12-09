@@ -1,4 +1,4 @@
-# 👋 Hey Developers! I'm Dhanush Mengji👨‍💻
+# 👋 Hey Developers! I'm Dhanush 👨‍💻
 
 Welcome to my corner of the GitHub universe! I'm passionate about building innovative solutions with the MERN (MongoDB, Express.js, React, Node.js) stack. If you're here, you're in for a treat - buckle up and let's dive into the world of creative coding together!
 ---
@@ -14,9 +14,10 @@ Welcome to my corner of the GitHub universe! I'm passionate about building innov
 
 ## 🛠️ Tech Stack
 Here's a glimpse of the tools and technologies I work with:
-- **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js, MongoDB
-- **Tools**: Git, VS Code
+- **Languages**: JavaScript, Python, SQL, C++
+- **Backend & Cloud**: Node.js, Express.js, AWS, Firebase, MongoDB, MySQL, PostgreSQL, Docker, CI/CD, WebSockets, JWT
+- **Frontend**: HTML, CSS, React.js, Next.js, TailwindCSS
+- **Tools**: Git, GitHub, Postman
 
 ---
 
