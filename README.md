@@ -14,8 +14,8 @@ Welcome to my corner of the GitHub universe! I'm passionate about building innov
 
 ## 🛠️ Tech Stack
 Here's a glimpse of the tools and technologies I work with:
-- **Languages**: JavaScript, Python, SQL, C++
-- **Backend & Cloud**: Node.js, Express.js, AWS, Firebase, MongoDB, MySQL, PostgreSQL, Docker, CI/CD, WebSockets, JWT
+- **Languages**: JavaScript, Python, SQL, C++, Java
+- **Backend & Cloud**: Node.js, Express.js, MongoDB, MySQL, PostgreSQL, AWS, Firebase, Docker, CI/CD, WebSockets, JWT
 - **Frontend**: HTML, CSS, React.js, Next.js, TailwindCSS
 - **Tools**: Git, GitHub, Postman
 
